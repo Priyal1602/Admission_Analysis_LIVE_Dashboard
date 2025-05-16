@@ -1,12 +1,12 @@
-# Admission Analysis Live Dashboard 📚📊
+# Admission Analysis Live Report 📚📊
 
-This is a live Power BI dashboard project developed during my internship at **Enosis Solutions Pvt. Ltd.** It is connected to a SQL Server database and automatically refreshes data every 12 hours. The dashboard is designed to provide real-time insights into student admissions, demographics, and geographical trends.
+This is a live Power BI project developed at **Enosis Solutions Pvt. Ltd. The Loaded data is connected to a SQL Server database and data is refreshed in power-bi services (on cloud) after every 12 hours. The dashboard is designed to provide real-time insights into student admissions, demographics, and geographical trends.
 
 ## 📌 Objective
 To support education administrators with timely, data-driven decisions by analyzing student admission trends, demographics, and location-based statistics using dynamic Power BI dashboards.
 
 ## 📂 Tools & Technologies
-- Power BI (Live Dashboard)
+- Power BI (Live Report)
 - Microsoft SQL Server
 - DAX (Data Analysis Expressions)
 - Power Query (for data transformation)
@@ -19,7 +19,7 @@ To support education administrators with timely, data-driven decisions by analyz
    - Center-wise comparison
 
 2. **Demographic Analysis Report**  
-   - Insights based on gender, age group, education level  
+   - Insights based on gender, course enroll, education level  
    - Department-wise and course-wise demographic distributions
 
 3. **Geographical Analysis Report**  
